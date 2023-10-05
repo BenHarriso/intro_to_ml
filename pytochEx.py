@@ -8,7 +8,7 @@ import wandb
 from tqdm import tqdm
 
 # Initialize wandb
-wandb.init(project="mnist-pytorch", entity="naddeok")
+wandb.init(project="mnist-pytorch", entity="harris164")
 
 # Load MNIST dataset without any normalization
 print("Loading MNIST dataset without normalization...")
